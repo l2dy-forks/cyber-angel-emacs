@@ -126,6 +126,7 @@
     ("delet" "delete" nil :count 3)
     ("deskotp" "desktop" nil :count 0)
     ("diamodns" "diamonds" nil :count 0)
+    ("dicitonaries" "dictionaries" nil :count 0)
     ("diesabled" "disabled" nil :count 0)
     ("doomm" "doom" nil :count 0)
     ("dooom" "doom" nil :count 3)
