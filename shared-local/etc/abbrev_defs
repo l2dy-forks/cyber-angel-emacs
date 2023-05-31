@@ -224,6 +224,7 @@
     ("poewr" "power" nil :count 0)
     ("prbolem" "problem" nil :count 0)
     ("preix" "prefix" nil :count 0)
+    ("previounly" "previously" nil :count 0)
     ("privte" "private" nil :count 0)
     ("proces" "process" nil :count 0)
     ("procesors" "processors" nil :count 0)
