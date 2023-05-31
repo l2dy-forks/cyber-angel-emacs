@@ -248,6 +248,7 @@
     ("whenn" "when" nil :count 0)
     ("whiel" "while" nil :count 0)
     ("whwen" "when" nil :count 0)
+    ("wich" "which" nil :count 0)
     ("wiht" "with" nil :count 0)
     ("willin" "willing" nil :count 0)
     ("windw" "window" nil :count 0)
