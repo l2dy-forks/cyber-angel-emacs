@@ -87,6 +87,7 @@
     ("coment" "comment" nil :count 0)
     ("completio" "completion" nil :count 0)
     ("compnay" "company" nil :count 1)
+    ("conditioal" "conditional" nil :count 0)
     ("configuation" "configuration" nil :count 0)
     ("configurathon" "configuration" nil :count 0)
     ("confiugration" "configuration" nil :count 0)
