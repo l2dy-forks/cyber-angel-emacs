@@ -87,6 +87,7 @@
     ("asni" "ansi" nil :count 0)
     ("atuo" "auto" nil :count 0)
     ("backgroudn" "background" nil :count 0)
+    ("beffer" "buffer" nil :count 0)
     ("benchmrk" "benchmark" nil :count 0)
     ("beter" "better" nil :count 0)
     ("bffer" "buffer" nil :count 0)
