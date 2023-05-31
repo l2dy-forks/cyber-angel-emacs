@@ -206,6 +206,7 @@
     ("regisetr" "register" nil :count 0)
     ("reiurn" "return" nil :count 0)
     ("remve" "remove" nil :count 0)
+    ("reqiure" "require" nil :count 0)
     ("requirt" "require" nil :count 0)
     ("requore" "require" nil :count 0)
     ("retgion" "region" nil :count 0)
