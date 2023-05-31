@@ -162,6 +162,7 @@
     ("locl" "local" nil :count 0)
     ("lokup" "lookup" nil :count 0)
     ("maow" "meow" nil :count 0)
+    ("masetr" "master" nil :count 1)
     ("mathc" "match" nil :count 0)
     ("mathces" "matches" nil :count 0)
     ("mdoe" "mode" nil :count 1)
