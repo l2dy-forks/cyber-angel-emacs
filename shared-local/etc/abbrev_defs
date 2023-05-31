@@ -67,6 +67,7 @@
     ("activve" "active" nil :count 0)
     ("adress" "address" nil :count 0)
     ("advicce" "advice" nil :count 0)
+    ("afetr" "after" nil :count 0)
     ("aftr" "after" nil :count 0)
     ("aftre" "after" nil :count 0)
     ("alises" "aliases" nil :count 0)
