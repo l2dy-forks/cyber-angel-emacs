@@ -163,6 +163,7 @@
     ("locatiion" "location" nil :count 0)
     ("locl" "local" nil :count 0)
     ("lokup" "lookup" nil :count 0)
+    ("luyout" "layout" nil :count 0)
     ("maow" "meow" nil :count 0)
     ("masetr" "master" nil :count 1)
     ("mathc" "match" nil :count 0)
