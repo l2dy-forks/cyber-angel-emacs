@@ -137,6 +137,7 @@
     ("enbale" "enable" nil :count 0)
     ("erorr" "error" nil :count 0)
     ("erors" "errors" nil :count 0)
+    ("erros" "errors" nil :count 0)
     ("everythg" "everything" nil :count 1)
     ("eveywhere" "everywhere" nil :count 0)
     ("excpet" "except" nil :count 0)
