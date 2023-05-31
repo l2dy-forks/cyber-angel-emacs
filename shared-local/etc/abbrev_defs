@@ -62,9 +62,6 @@
 
 (define-abbrev-table 'global-abbrev-table
   '(
-    ("g_dan7" cae-gpt-insert-dan7-prompt cae-gpt-insert-dan7-prompt :count 0)
-    ("g_maximus" cae-gpt-insert-maximum-prompt cae-gpt-insert-maximum-prompt :count 0)
-
     ("activve" "active" nil :count 0)
     ("adress" "address" nil :count 0)
     ("advicce" "advice" nil :count 0)
