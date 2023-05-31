@@ -131,6 +131,7 @@
     ("formars" "formats" nil :count 1)
     ("fter" "after" nil :count 0)
     ("fuction" "function" nil :count 0)
+    ("fullscren" "fullscreen" nil :count 1)
     ("funciton" "function" nil :count 0)
     ("garbagbe" "garbage" nil :count 0)
     ("gargbage" "garbage" nil :count 0)
