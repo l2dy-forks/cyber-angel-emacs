@@ -195,6 +195,7 @@
     ("navigantion" "navigation" nil :count 0)
     ("nubmer" "number" nil :count 0)
     ("occurence" "occurrence" nil :count 0)
+    ("ognire" "ignore" nil :count 0)
     ("oktline" "outline" nil :count 0)
     ("optimizrtion" "optimization" nil :count 0)
     ("optioal" "optional" nil :count 1)
