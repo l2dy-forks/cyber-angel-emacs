@@ -197,6 +197,7 @@
     ("provder" "provider" nil :count 0)
     ("rainbw" "rainbow" nil :count 0)
     ("rebuid" "rebuild" nil :count 0)
+    ("recipt" "recipe" nil :count 0)
     ("regisetr" "register" nil :count 0)
     ("reiurn" "return" nil :count 0)
     ("remve" "remove" nil :count 0)
