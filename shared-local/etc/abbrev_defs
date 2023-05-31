@@ -193,6 +193,7 @@
     ("mroe" "more" nil :count 0)
     ("naalyzer" "analyzer" nil :count 0)
     ("navigantion" "navigation" nil :count 0)
+    ("nubmer" "number" nil :count 0)
     ("occurence" "occurrence" nil :count 0)
     ("oktline" "outline" nil :count 0)
     ("optimizrtion" "optimization" nil :count 0)
