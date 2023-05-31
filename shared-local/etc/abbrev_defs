@@ -219,6 +219,7 @@
     ("poewr" "power" nil :count 0)
     ("prbolem" "problem" nil :count 0)
     ("privte" "private" nil :count 0)
+    ("proces" "process" nil :count 0)
     ("procesors" "processors" nil :count 0)
     ("proivders" "providers" nil :count 0)
     ("projetc" "project" nil :count 0)
