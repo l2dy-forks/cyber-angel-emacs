@@ -221,6 +221,7 @@
     ("thnaks" "thanks" nil :count 0)
     ("threshol" "threshold" nil :count 0)
     ("throkgh" "through" nil :count 0)
+    ("thte" "the" nil :count 0)
     ("timeut" "timeout" nil :count 0)
     ("tjhen" "then" nil :count 0)
     ("treu" "true" nil :count 0)
