@@ -25,6 +25,7 @@
     ("etq" "setq" nil :count 3)
     ("frogn" "progn" nil :count 1)
     ("funcl" "funcall" nil :count 1)
+    ("hoks" "hooks" nil :count 1)
     ("hoo" "hook" nil :count 2)
     ("hout" "out" nil :count 1)
     ("iseatrch" "isearch" nil :count 1)
