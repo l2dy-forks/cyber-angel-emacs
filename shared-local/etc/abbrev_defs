@@ -234,6 +234,7 @@
     ("requirt" "require" nil :count 0)
     ("requore" "require" nil :count 0)
     ("retgion" "region" nil :count 0)
+    ("reuire" "require" nil :count 0)
     ("righteouss" "righteous" nil :count 0)
     ("rlias" "alias" nil :count 0)
     ("rmeember" "remember" nil :count 0)
