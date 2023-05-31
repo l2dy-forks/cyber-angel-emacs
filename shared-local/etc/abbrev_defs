@@ -101,6 +101,7 @@
     ("corretly" "correctly" nil :count 0)
     ("curent" "current" nil :count 2)
     ("curently" "currently" nil :count 0)
+    ("currenly" "currently" nil :count 0)
     ("deete" "delete" nil :count 0)
     ("defauit" "default" nil :count 0)
     ("degredation" "degradation" nil :count 0)
