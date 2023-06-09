@@ -83,6 +83,7 @@
     ("alises" "aliases" nil :count 0)
     ("aplication" "application" nil :count 0)
     ("aplly" "apply" nil :count 1)
+    ("applt" "apply" nil :count 0)
     ("ariound" "around" nil :count 0)
     ("aroundd" "around" nil :count 1)
     ("arounhd" "around" nil :count 0)
