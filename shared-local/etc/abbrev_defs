@@ -262,6 +262,7 @@
     ("runing" "running" nil :count 0)
     ("scrol" "scroll" nil :count 0)
     ("seemlessly" "seamlessly" nil :count 0)
+    ("serizlize" "serialize" nil :count 0)
     ("settg" "setting" nil :count 0)
     ("shoyld" "should" nil :count 1)
     ("shuld" "should" nil :count 0)
