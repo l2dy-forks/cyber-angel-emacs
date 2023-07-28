@@ -17,6 +17,7 @@
     ("conat" "concat" nil :count 1)
     ("conct" "concat" nil :count 1)
     ("dafun" "defun" nil :count 1)
+    ("defcusto" "defcustom" nil :count 1)
     ("deffun" "defun" nil :count 1)
     ("defvr" "defvar" nil :count 1)
     ("deun" "defun" nil :count 1)
