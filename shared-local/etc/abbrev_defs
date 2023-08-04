@@ -315,6 +315,7 @@
 
 (define-abbrev-table 'minibuffer-mode-abbrev-table
   '(
+    ("efun" "defun" nil :count 1)
     ("funcal" "funcall" nil :count 1)
     ("mmagit" "magit" nil :count 1)
     ("posfraem" "posframe" nil :count 1)
