@@ -78,6 +78,7 @@
 (define-abbrev-table 'global-abbrev-table
   '(
     ("activve" "active" nil :count 0)
+    ("adod" "add" nil :count 0)
     ("adress" "address" nil :count 0)
     ("advicce" "advice" nil :count 0)
     ("afetr" "after" nil :count 0)
@@ -171,7 +172,7 @@
     ("hcange" "change" nil :count 0)
     ("hitory" "history" nil :count 0)
     ("hlelo" "hello" nil :count 0)
-    ("hok" "hook" nil :count 2)
+    ("hok" "hook" nil :count 3)
     ("hoook" "hook" nil :count 1)
     ("hrad" "hard" nil :count 0)
     ("htat" "that" nil :count 0)
