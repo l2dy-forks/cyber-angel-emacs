@@ -70,6 +70,7 @@
     ("doo" "doom" nil :count 3)
     ("doomd" "doom.d" nil :count 1)
     ("emrege" "emerge" nil :count 1)
+    ("emrge" "emerge" nil :count 1)
     ("fie" "file" nil :count 1)
     ("killal" "killall" nil :count 1)
     ("maidir" "maildir" nil :count 1)
