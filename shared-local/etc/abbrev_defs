@@ -308,6 +308,7 @@
     ("windmow" "window" nil :count 0)
     ("windoows" "windows" nil :count 0)
     ("windw" "window" nil :count 0)
+    ("winodw" "window" nil :count 0)
     ("winows" "windows" nil :count 0)
     ("workspcae" "workspace" nil :count 1)
     ("workspcaes" "workspaces" nil :count 1)
