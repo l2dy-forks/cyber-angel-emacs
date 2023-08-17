@@ -58,6 +58,7 @@
     ("rfter" "after" nil :count 1)
     ("seopt" "setopt" nil :count 1)
     ("seq" "setq" nil :count 1)
+    ("steq" "setq" nil :count 1)
     ("tols" "tools" nil :count 1)
     ("tremacs" "treemacs" nil :count 1)
     ("winnum" "winum" nil :count 1)
