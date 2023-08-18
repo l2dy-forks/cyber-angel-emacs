@@ -194,6 +194,7 @@
     ("intiialize" "initialize" nil :count 0)
     ("iusers" "users" nil :count 0)
     ("iwth" "with" nil :count 1)
+    ("jumpter" "jumper" nil :count 0)
     ("keybidnigns" "keybindings" nil :count 1)
     ("keybinings" "keybindings" nil :count 0)
     ("lamdba" "lambda" nil :count 0)
