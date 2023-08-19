@@ -6,7 +6,7 @@
 
 (define-abbrev-table 'emacs-lisp-mode-abbrev-table
   '(
-    ("afterj1" "after!" nil :count 2)
+    ("afterj1" "after!" nil :count 3)
     ("alit" "alist" nil :count 2)
     ("asni" "ansi" nil :count 2)
     ("bactrace" "backtrace" nil :count 1)
@@ -43,7 +43,8 @@
     ("mesage" "message" nil :count 1)
     ("minibubffer" "minibuffer" nil :count 1)
     ("modilep" "modulep" nil :count 1)
-    ("modulep" "modulep" nil :count 47)
+    ("modulep" "modulep" nil :count 48)
+    ("modulep1" "modulep!" nil :count 1)
     ("moudlep" "modulep" nil :count 1)
     ("mrp" "map" nil :count 1)
     ("oldfufnn" "oldfun" nil :count 1)
@@ -271,6 +272,7 @@
     ("retgion" "region" nil :count 0)
     ("reuire" "require" nil :count 0)
     ("righteouss" "righteous" nil :count 0)
+    ("rihgt" "right" nil :count 0)
     ("rlias" "alias" nil :count 0)
     ("rmeember" "remember" nil :count 0)
     ("rmeove" "remove" nil :count 1)
