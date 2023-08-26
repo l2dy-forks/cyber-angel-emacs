@@ -105,6 +105,7 @@
     ("benchmrk" "benchmark" nil :count 0)
     ("beter" "better" nil :count 0)
     ("bffer" "buffer" nil :count 0)
+    ("bidnign" "binding" nil :count 0)
     ("bidning" "binding" nil :count 0)
     ("bookmakr" "bookmark" nil :count 0)
     ("bookmmrk" "bookmark" nil :count 0)
