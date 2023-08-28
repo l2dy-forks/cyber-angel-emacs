@@ -170,6 +170,7 @@
     ("fiel" "file" nil :count 0)
     ("finaly" "finally" nil :count 1)
     ("fnd" "find" nil :count 0)
+    ("folllowing" "following" nil :count 0)
     ("foregorund" "foreground" nil :count 0)
     ("formars" "formats" nil :count 1)
     ("freplace" "fireplace" nil :count 0)
