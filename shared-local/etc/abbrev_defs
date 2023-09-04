@@ -44,7 +44,7 @@
     ("mesage" "message" nil :count 1)
     ("minibubffer" "minibuffer" nil :count 1)
     ("modilep" "modulep" nil :count 1)
-    ("modulep" "modulep" nil :count 70)
+    ("modulep" "modulep" nil :count 72)
     ("modulep1" "modulep!" nil :count 1)
     ("moedulep" "modulep" nil :count 1)
     ("moudlep" "modulep" nil :count 1)
