@@ -79,6 +79,7 @@
     ("killal" "killall" nil :count 1)
     ("maidir" "maildir" nil :count 1)
     ("restar" "restart" nil :count 1)
+    ("rpeo" "repo" nil :count 1)
     ("tailcale" "tailscale" nil :count 1)
    ))
 
