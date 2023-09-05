@@ -6,7 +6,7 @@
 
 (define-abbrev-table 'emacs-lisp-mode-abbrev-table
   '(
-    ("afterj1" "after!" nil :count 3)
+    ("afterj1" "after!" nil :count 4)
     ("alit" "alist" nil :count 2)
     ("asni" "ansi" nil :count 2)
     ("bactrace" "backtrace" nil :count 1)
@@ -167,6 +167,7 @@
     ("erros" "errors" nil :count 0)
     ("everythg" "everything" nil :count 1)
     ("eveywhere" "everywhere" nil :count 0)
+    ("evfil" "evil" nil :count 0)
     ("excpet" "except" nil :count 0)
     ("exfort" "export" nil :count 0)
     ("fiel" "file" nil :count 0)
