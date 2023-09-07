@@ -142,6 +142,7 @@
     ("ddisplay" "display" nil :count 0)
     ("deete" "delete" nil :count 0)
     ("defauit" "default" nil :count 0)
+    ("defin" "define" nil :count 0)
     ("defunn" "defun" nil :count 0)
     ("degredation" "degradation" nil :count 0)
     ("delet" "delete" nil :count 4)
