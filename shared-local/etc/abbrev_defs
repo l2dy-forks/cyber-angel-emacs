@@ -121,6 +121,7 @@
     ("bookmmrk" "bookmark" nil :count 0)
     ("botjh" "both" nil :count 0)
     ("brokne" "broken" nil :count 0)
+    ("brtoher" "brother" nil :count 0)
     ("bufer" "buffer" nil :count 1)
     ("butons" "buttons" nil :count 0)
     ("chagne" "change" nil :count 0)
