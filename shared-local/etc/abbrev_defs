@@ -193,6 +193,7 @@
     ("foregorund" "foreground" nil :count 0)
     ("forkign" "forking" nil :count 0)
     ("formars" "formats" nil :count 1)
+    ("forwd" "forward" nil :count 1)
     ("freplace" "fireplace" nil :count 0)
     ("fter" "after" nil :count 0)
     ("fuction" "function" nil :count 0)
