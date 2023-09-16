@@ -206,6 +206,7 @@
     ("garbagbe" "garbage" nil :count 0)
     ("gargbage" "garbage" nil :count 0)
     ("geting" "getting" nil :count 1)
+    ("gnetoo" "gentoo" nil :count 0)
     ("harhat" "hardhat" nil :count 0)
     ("hcange" "change" nil :count 0)
     ("hitory" "history" nil :count 0)
