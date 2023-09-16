@@ -41,6 +41,7 @@
     ("lop" "loop" nil :count 1)
     ("map!" "map1" nil :count 0)
     ("map1" "map!" nil :count 2)
+    ("matgit" "magit" nil :count 1)
     ("mdoulep" "modulep!" nil :count 1)
     ("mesage" "message" nil :count 1)
     ("minibubffer" "minibuffer" nil :count 1)
