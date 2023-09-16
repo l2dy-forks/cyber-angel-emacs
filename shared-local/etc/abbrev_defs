@@ -182,6 +182,7 @@
     ("emertge" "emerge" nil :count 0)
     ("emial" "email" nil :count 0)
     ("enbale" "enable" nil :count 0)
+    ("enigne" "engine" nil :count 0)
     ("erorr" "error" nil :count 0)
     ("erors" "errors" nil :count 0)
     ("erros" "errors" nil :count 0)
