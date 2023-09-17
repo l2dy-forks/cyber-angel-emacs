@@ -356,6 +356,7 @@
     ("whemn" "when" nil :count 0)
     ("whenefer" "whenever" nil :count 0)
     ("whenn" "when" nil :count 0)
+    ("whicih" "which" nil :count 0)
     ("whiel" "while" nil :count 0)
     ("whwen" "when" nil :count 0)
     ("wich" "which" nil :count 0)
