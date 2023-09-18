@@ -129,6 +129,7 @@
     ("bufer" "buffer" nil :count 1)
     ("butons" "buttons" nil :count 0)
     ("chagne" "change" nil :count 0)
+    ("chagned" "changed" nil :count 0)
     ("cheetcheats" "cheatsheets" nil :count 1)
     ("chekcing" "checking" nil :count 0)
     ("cler" "clear" nil :count 0)
