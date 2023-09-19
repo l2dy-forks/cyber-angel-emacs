@@ -355,6 +355,7 @@
     ("upstrem" "upstream" nil :count 0)
     ("uqit" "quit" nil :count 0)
     ("uste" "use" nil :count 0)
+    ("variabels" "variables" nil :count 0)
     ("whemn" "when" nil :count 0)
     ("whenefer" "whenever" nil :count 0)
     ("whenn" "when" nil :count 0)
