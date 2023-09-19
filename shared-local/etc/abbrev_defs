@@ -329,6 +329,7 @@
     ("sfot" "soft" nil :count 0)
     ("sfter" "after" nil :count 2)
     ("sheetcheats" "cheatsheets" nil :count 0)
+    ("shouild" "should" nil :count 0)
     ("shoyld" "should" nil :count 1)
     ("shuld" "should" nil :count 0)
     ("slvae" "slave" nil :count 0)
