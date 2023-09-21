@@ -337,6 +337,7 @@
     ("snaek" "snake" nil :count 0)
     ("sometims" "sometimes" nil :count 0)
     ("specificaly" "specifically" nil :count 0)
+    ("stil" "still" nil :count 0)
     ("straihgt" "straight" nil :count 0)
     ("sycn" "sync" nil :count 0)
     ("syncx" "sync" nil :count 0)
