@@ -264,6 +264,7 @@
     ("navigantion" "navigation" nil :count 0)
     ("nnew" "new" nil :count 0)
     ("nubmer" "number" nil :count 0)
+    ("obvbious" "obvious" nil :count 0)
     ("occurence" "occurrence" nil :count 0)
     ("ognire" "ignore" nil :count 0)
     ("oktline" "outline" nil :count 0)
