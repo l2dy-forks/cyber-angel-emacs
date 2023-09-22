@@ -246,6 +246,7 @@
     ("lokup" "lookup" nil :count 1)
     ("luyout" "layout" nil :count 0)
     ("maap" "map" nil :count 0)
+    ("maek" "make" nil :count 0)
     ("makr" "mark" nil :count 0)
     ("maow" "meow" nil :count 0)
     ("masetr" "master" nil :count 1)
