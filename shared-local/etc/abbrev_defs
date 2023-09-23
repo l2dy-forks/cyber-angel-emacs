@@ -6,7 +6,7 @@
 
 (define-abbrev-table 'emacs-lisp-mode-abbrev-table
   '(
-    ("afterj1" "after!" nil :count 4)
+    ("afterj1" "after!" nil :count 6)
     ("alit" "alist" nil :count 2)
     ("asni" "ansi" nil :count 2)
     ("bactrace" "backtrace" nil :count 1)
@@ -159,6 +159,7 @@
     ("deete" "delete" nil :count 0)
     ("defauit" "default" nil :count 0)
     ("defin" "define" nil :count 0)
+    ("defn" "defun" nil :count 0)
     ("defunn" "defun" nil :count 0)
     ("degredation" "degradation" nil :count 0)
     ("delet" "delete" nil :count 4)
@@ -245,6 +246,7 @@
     ("locatiion" "location" nil :count 0)
     ("locl" "local" nil :count 0)
     ("lokup" "lookup" nil :count 1)
+    ("lookking" "looking" nil :count 0)
     ("luyout" "layout" nil :count 0)
     ("maap" "map" nil :count 0)
     ("maek" "make" nil :count 0)
@@ -281,6 +283,7 @@
     ("pacagke" "package" nil :count 0)
     ("packapge" "package" nil :count 0)
     ("packatge" "package" nil :count 0)
+    ("packge" "package" nil :count 0)
     ("paclage" "package" nil :count 0)
     ("paide" "paid" nil :count 0)
     ("pakage" "package" nil :count 0)
@@ -343,6 +346,7 @@
     ("specificaly" "specifically" nil :count 0)
     ("stil" "still" nil :count 0)
     ("straihgt" "straight" nil :count 0)
+    ("swtich" "switch" nil :count 0)
     ("sycn" "sync" nil :count 0)
     ("syncx" "sync" nil :count 0)
     ("synvc" "sync" nil :count 0)
@@ -388,6 +392,7 @@
 
 (define-abbrev-table 'minibuffer-mode-abbrev-table
   '(
+    ("afterj1" "after!" nil :count 3)
     ("efun" "defun" nil :count 1)
     ("funcal" "funcall" nil :count 1)
     ("mmagit" "magit" nil :count 1)
