@@ -370,6 +370,7 @@
     ("tjhen" "then" nil :count 0)
     ("treu" "true" nil :count 0)
     ("unacpakged" "unpackaged" nil :count 1)
+    ("uness" "unless" nil :count 0)
     ("unles" "unless" nil :count 1)
     ("unlless" "unless" nil :count 0)
     ("upstrem" "upstream" nil :count 0)
