@@ -27,6 +27,7 @@
     ("eeq" "eq" nil :count 1)
     ("eflfeed" "elfeed" nil :count 1)
     ("esell" "eshell" nil :count 1)
+    ("estq" "setq" nil :count 1)
     ("etq" "setq" nil :count 3)
     ("frogn" "progn" nil :count 1)
     ("funcl" "funcall" nil :count 1)
