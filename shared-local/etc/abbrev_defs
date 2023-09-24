@@ -229,6 +229,7 @@
     ("hwat" "what" nil :count 0)
     ("hwen" "when" nil :count 0)
     ("hwitespace" "whitespace" nil :count 0)
+    ("idealy" "ideally" nil :count 0)
     ("ifnally" "finally" nil :count 0)
     ("ifo" "info" nil :count 0)
     ("ignroe" "ignore" nil :count 0)
