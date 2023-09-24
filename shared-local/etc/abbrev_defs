@@ -137,6 +137,7 @@
     ("cler" "clear" nil :count 0)
     ("clnoe" "clone" nil :count 0)
     ("closg" "closing" nil :count 0)
+    ("cnsoult" "consult" nil :count 0)
     ("columbn" "column" nil :count 0)
     ("coment" "comment" nil :count 0)
     ("compatiblity" "compatibility" nil :count 0)
