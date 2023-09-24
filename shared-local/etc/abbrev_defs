@@ -165,6 +165,7 @@
     ("degredation" "degradation" nil :count 0)
     ("delet" "delete" nil :count 4)
     ("deskotp" "desktop" nil :count 0)
+    ("diable" "disable" nil :count 0)
     ("diamodns" "diamonds" nil :count 0)
     ("dicitonaries" "dictionaries" nil :count 0)
     ("diesabled" "disabled" nil :count 0)
