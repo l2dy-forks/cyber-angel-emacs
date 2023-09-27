@@ -116,6 +116,7 @@
     ("atuo" "auto" nil :count 0)
     ("automantically" "automatically" nil :count 0)
     ("backgroudn" "background" nil :count 0)
+    ("backspce" "backspace" nil :count 0)
     ("basicaly" "basically" nil :count 0)
     ("beffer" "buffer" nil :count 0)
     ("benchmrk" "benchmark" nil :count 0)
