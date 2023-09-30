@@ -99,6 +99,7 @@
 
 (define-abbrev-table 'global-abbrev-table
   '(
+    ("accidentaly" "accidentally" nil :count 0)
     ("activve" "active" nil :count 0)
     ("adod" "add" nil :count 0)
     ("adress" "address" nil :count 0)
@@ -208,6 +209,7 @@
     ("exfort" "export" nil :count 0)
     ("fiel" "file" nil :count 0)
     ("finaly" "finally" nil :count 2)
+    ("firt" "first" nil :count 0)
     ("fnd" "find" nil :count 0)
     ("folllowing" "following" nil :count 0)
     ("foregorund" "foreground" nil :count 0)
@@ -338,7 +340,7 @@
     ("qdoom" "doom" nil :count 0)
     ("rainbw" "rainbow" nil :count 0)
     ("readraw" "redraw" nil :count 0)
-    ("realy" "really" nil :count 0)
+    ("realy" "really" nil :count 1)
     ("rebuid" "rebuild" nil :count 0)
     ("recipt" "recipe" nil :count 0)
     ("regionl" "region" nil :count 0)
