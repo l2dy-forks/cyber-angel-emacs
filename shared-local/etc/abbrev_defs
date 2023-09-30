@@ -62,6 +62,7 @@
     ("packagej1" "package!" nil :count 4)
     ("prgon" "progn" nil :count 1)
     ("prong" "progn" nil :count 1)
+    ("properize" "propertize" nil :count 1)
     ("remova" "remove" nil :count 1)
     ("remowe" "remove" nil :count 1)
     ("rfter" "after" nil :count 1)
