@@ -286,6 +286,7 @@
     ("naalyzer" "analyzer" nil :count 0)
     ("narroe" "narrow" nil :count 0)
     ("navigantion" "navigation" nil :count 0)
+    ("nmae" "name" nil :count 0)
     ("nnew" "new" nil :count 0)
     ("nubmer" "number" nil :count 0)
     ("obvbious" "obvious" nil :count 0)
