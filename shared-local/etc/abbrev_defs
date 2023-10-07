@@ -117,6 +117,7 @@
     ("aroundd" "around" nil :count 1)
     ("arounhd" "around" nil :count 0)
     ("asni" "ansi" nil :count 0)
+    ("asynchronoulsly" "asynchronously" nil :count 0)
     ("atuo" "auto" nil :count 0)
     ("automantically" "automatically" nil :count 0)
     ("backgroudn" "background" nil :count 0)
