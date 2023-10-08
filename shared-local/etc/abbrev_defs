@@ -347,6 +347,7 @@
     ("projecitle" "projectile" nil :count 0)
     ("projetc" "project" nil :count 0)
     ("provder" "provider" nil :count 0)
+    ("pyhton" "python" nil :count 0)
     ("qdoom" "doom" nil :count 0)
     ("rainbw" "rainbow" nil :count 0)
     ("readraw" "redraw" nil :count 0)
