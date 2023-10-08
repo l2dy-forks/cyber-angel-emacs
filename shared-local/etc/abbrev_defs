@@ -103,6 +103,7 @@
     ("accidentaly" "accidentally" nil :count 0)
     ("activve" "active" nil :count 0)
     ("adod" "add" nil :count 0)
+    ("adoom" "doom" nil :count 0)
     ("adress" "address" nil :count 0)
     ("advicce" "advice" nil :count 0)
     ("afetr" "after" nil :count 0)
