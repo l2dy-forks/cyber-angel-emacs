@@ -146,6 +146,7 @@
     ("ccurrent" "current" nil :count 0)
     ("chagne" "change" nil :count 1)
     ("chagned" "changed" nil :count 0)
+    ("cheathseet" "cheatsheet" nil :count 1)
     ("cheatshet" "cheatsheet" nil :count 1)
     ("cheetcheats" "cheatsheets" nil :count 1)
     ("chekcing" "checking" nil :count 0)
