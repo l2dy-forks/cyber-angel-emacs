@@ -336,6 +336,7 @@
     ("pgae" "page" nil :count 0)
     ("picutre" "picture" nil :count 1)
     ("picutres" "pictures" nil :count 0)
+    ("plaeyr" "player" nil :count 0)
     ("poewr" "power" nil :count 0)
     ("ppoint" "point" nil :count 0)
     ("prbolem" "problem" nil :count 0)
