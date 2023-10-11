@@ -112,6 +112,7 @@
     ("aftr" "after" nil :count 0)
     ("aftre" "after" nil :count 0)
     ("albuums" "albums" nil :count 0)
+    ("aling" "align" nil :count 0)
     ("alises" "aliases" nil :count 0)
     ("aplication" "application" nil :count 0)
     ("aplly" "apply" nil :count 1)
