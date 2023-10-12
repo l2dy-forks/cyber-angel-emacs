@@ -247,6 +247,7 @@
     ("hnost" "host" nil :count 0)
     ("hok" "hook" nil :count 3)
     ("hoook" "hook" nil :count 1)
+    ("hopefuly" "hopefully" nil :count 0)
     ("hrad" "hard" nil :count 0)
     ("htat" "that" nil :count 0)
     ("hte" "the" nil :count 1)
