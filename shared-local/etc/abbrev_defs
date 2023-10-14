@@ -194,6 +194,7 @@
     ("doomm" "doom" nil :count 0)
     ("dooom" "doom" nil :count 3)
     ("duno" "dunno" nil :count 0)
+    ("eac" "each" nil :count 0)
     ("ecditor" "editor" nil :count 0)
     ("ecits" "exits" nil :count 0)
     ("editro" "editor" nil :count 0)
