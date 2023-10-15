@@ -385,6 +385,7 @@
     ("rmeember" "remember" nil :count 0)
     ("rmeove" "remove" nil :count 1)
     ("rmoeved" "removed" nil :count 0)
+    ("rquire" "require" nil :count 0)
     ("runing" "running" nil :count 0)
     ("runnign" "running" nil :count 0)
     ("scrol" "scroll" nil :count 0)
