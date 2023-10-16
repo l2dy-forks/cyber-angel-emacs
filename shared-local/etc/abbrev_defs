@@ -435,6 +435,7 @@
     ("uqit" "quit" nil :count 0)
     ("usse" "use" nil :count 0)
     ("uste" "use" nil :count 0)
+    ("usualy" "usually" nil :count 0)
     ("varaible" "variable" nil :count 0)
     ("variabels" "variables" nil :count 0)
     ("we'l" "we'll" nil :count 0)
