@@ -186,6 +186,7 @@
     ("defn" "defun" nil :count 0)
     ("defunn" "defun" nil :count 0)
     ("degredation" "degradation" nil :count 0)
+    ("deirved" "derived" nil :count 0)
     ("delet" "delete" nil :count 4)
     ("deskotp" "desktop" nil :count 0)
     ("diable" "disable" nil :count 0)
