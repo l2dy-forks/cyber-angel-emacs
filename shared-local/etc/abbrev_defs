@@ -240,6 +240,7 @@
     ("fullscren" "fullscreen" nil :count 1)
     ("funciton" "function" nil :count 0)
     ("functiosn" "functions" nil :count 0)
+    ("funmction" "function" nil :count 0)
     ("garbagbe" "garbage" nil :count 0)
     ("gargbage" "garbage" nil :count 0)
     ("geting" "getting" nil :count 1)
