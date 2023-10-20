@@ -280,6 +280,7 @@
     ("interatively" "interactively" nil :count 0)
     ("interective" "interactive" nil :count 0)
     ("intiialize" "initialize" nil :count 0)
+    ("itme" "time" nil :count 1)
     ("iunteractive" "interactive" nil :count 0)
     ("iusers" "users" nil :count 1)
     ("iwth" "with" nil :count 1)
