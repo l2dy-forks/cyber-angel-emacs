@@ -366,6 +366,7 @@
     ("preveiw" "preview" nil :count 0)
     ("previounly" "previously" nil :count 0)
     ("previww" "preview" nil :count 0)
+    ("priint" "print" nil :count 0)
     ("privte" "private" nil :count 0)
     ("proces" "process" nil :count 1)
     ("procesors" "processors" nil :count 0)
