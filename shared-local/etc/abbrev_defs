@@ -102,6 +102,7 @@
 
 (define-abbrev-table 'global-abbrev-table
   '(
+    ("acces" "access" nil :count 0)
     ("accidentaly" "accidentally" nil :count 0)
     ("activve" "active" nil :count 0)
     ("adod" "add" nil :count 0)
