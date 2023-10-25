@@ -493,6 +493,11 @@
     ("ywllow" "yellow" nil :count 0)
    ))
 
+(define-abbrev-table 'lua-mode-abbrev-table
+  '(
+    ("iparis" "ipairs" nil :count 1)
+   ))
+
 (define-abbrev-table 'minibuffer-mode-abbrev-table
   '(
     ("afterj1" "after!" nil :count 3)
