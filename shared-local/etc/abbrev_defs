@@ -373,6 +373,7 @@
     ("pcakage" "package" nil :count 4)
     ("pckage" "package" nil :count 0)
     ("performacne" "performance" nil :count 0)
+    ("performancce" "performance" nil :count 0)
     ("perormance" "performance" nil :count 1)
     ("pgae" "page" nil :count 0)
     ("picutre" "picture" nil :count 1)
