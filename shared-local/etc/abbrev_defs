@@ -289,6 +289,7 @@
     ("ignroe" "ignore" nil :count 0)
     ("improvmenets" "improvements" nil :count 0)
     ("imrpovements" "improvements" nil :count 0)
+    ("indriect" "indirect" nil :count 0)
     ("inesrt" "insert" nil :count 0)
     ("inhrit" "inherit" nil :count 0)
     ("initialie" "initialize" nil :count 0)
