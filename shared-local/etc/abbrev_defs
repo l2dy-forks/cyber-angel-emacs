@@ -353,6 +353,7 @@
     ("obects" "objects" nil :count 0)
     ("obvbious" "obvious" nil :count 0)
     ("occurence" "occurrence" nil :count 0)
+    ("ocmpletion" "completion" nil :count 0)
     ("ocnifg" "config" nil :count 1)
     ("odn't" "don't" nil :count 0)
     ("ognire" "ignore" nil :count 0)
