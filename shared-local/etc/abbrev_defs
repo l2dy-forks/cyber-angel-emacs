@@ -171,6 +171,7 @@
     ("collection" "collection" nil :count 2)
     ("columbn" "column" nil :count 0)
     ("coment" "comment" nil :count 0)
+    ("comits" "commits" nil :count 0)
     ("commaand" "command" nil :count 0)
     ("compatiblity" "compatibility" nil :count 0)
     ("completio" "completion" nil :count 0)
