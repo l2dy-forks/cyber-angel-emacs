@@ -119,6 +119,7 @@
     ("algenra" "algebra" nil :count 0)
     ("aling" "align" nil :count 0)
     ("alises" "aliases" nil :count 0)
+    ("alwyas" "always" nil :count 0)
     ("aplication" "application" nil :count 0)
     ("aplly" "apply" nil :count 1)
     ("applt" "apply" nil :count 0)
