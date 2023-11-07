@@ -436,6 +436,7 @@
     ("rquire" "require" nil :count 0)
     ("runing" "running" nil :count 0)
     ("runnign" "running" nil :count 0)
+    ("sclae" "scale" nil :count 0)
     ("scrol" "scroll" nil :count 0)
     ("scroling" "scrolling" nil :count 0)
     ("seemlessly" "seamlessly" nil :count 0)
