@@ -335,6 +335,7 @@
     ("masetr" "master" nil :count 1)
     ("mathc" "match" nil :count 0)
     ("mathces" "matches" nil :count 0)
+    ("mathplotlib" "matplotlib" nil :count 1)
     ("mdoe" "mode" nil :count 2)
     ("meacs" "emacs" nil :count 0)
     ("messge" "message" nil :count 0)
