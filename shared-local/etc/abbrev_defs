@@ -439,6 +439,7 @@
     ("rihgt" "right" nil :count 0)
     ("rlias" "alias" nil :count 0)
     ("rmeember" "remember" nil :count 0)
+    ("rmeote" "remote" nil :count 0)
     ("rmeove" "remove" nil :count 1)
     ("rmoeved" "removed" nil :count 0)
     ("rquire" "require" nil :count 0)
