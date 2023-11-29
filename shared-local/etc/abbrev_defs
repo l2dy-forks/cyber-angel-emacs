@@ -248,6 +248,7 @@
     ("evfil" "evil" nil :count 0)
     ("excpet" "except" nil :count 0)
     ("exfort" "export" nil :count 0)
+    ("featirep" "featurep" nil :count 1)
     ("fiel" "file" nil :count 0)
     ("finaly" "finally" nil :count 3)
     ("firt" "first" nil :count 0)
