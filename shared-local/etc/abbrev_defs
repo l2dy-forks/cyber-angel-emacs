@@ -69,7 +69,6 @@
     ("remowe" "remove" nil :count 1)
     ("rfter" "after" nil :count 1)
     ("seopt" "setopt" nil :count 1)
-    ("seq" "setq" nil :count 2)
     ("sexo" "sexp" nil :count 1)
     ("sheetcheats" "cheatsheets" nil :count 2)
     ("smartarens" "smartparens" nil :count 1)
