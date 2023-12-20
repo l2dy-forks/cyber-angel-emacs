@@ -516,6 +516,7 @@
     ("whwen" "when" nil :count 0)
     ("wich" "which" nil :count 0)
     ("wiht" "with" nil :count 0)
+    ("wiith" "with" nil :count 0)
     ("willin" "willing" nil :count 0)
     ("windmow" "window" nil :count 0)
     ("windoows" "windows" nil :count 0)
