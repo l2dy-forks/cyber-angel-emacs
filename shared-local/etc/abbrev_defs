@@ -474,6 +474,7 @@
     ("straihgt" "straight" nil :count 0)
     ("stringg" "string" nil :count 0)
     ("suppoort" "support" nil :count 0)
+    ("swithc" "switch" nil :count 0)
     ("swtich" "switch" nil :count 0)
     ("sycn" "sync" nil :count 0)
     ("syncx" "sync" nil :count 0)
