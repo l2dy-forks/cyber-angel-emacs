@@ -434,6 +434,7 @@
     ("regionl" "region" nil :count 0)
     ("regisetr" "register" nil :count 0)
     ("reiurn" "return" nil :count 0)
+    ("remot" "remote" nil :count 1)
     ("remve" "remove" nil :count 0)
     ("repostiory" "repository" nil :count 0)
     ("reqiure" "require" nil :count 0)
