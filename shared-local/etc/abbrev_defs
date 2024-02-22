@@ -406,6 +406,7 @@
     ("picutres" "pictures" nil :count 0)
     ("plaeyr" "player" nil :count 0)
     ("poewr" "power" nil :count 0)
+    ("poush" "push" nil :count 0)
     ("ppoint" "point" nil :count 0)
     ("prblem" "problem" nil :count 0)
     ("prbolem" "problem" nil :count 0)
