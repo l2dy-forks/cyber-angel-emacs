@@ -475,6 +475,7 @@
     ("shouild" "should" nil :count 0)
     ("shoyld" "should" nil :count 1)
     ("shuld" "should" nil :count 0)
+    ("siync" "sync" nil :count 0)
     ("slvae" "slave" nil :count 0)
     ("smei" "semi" nil :count 0)
     ("snaek" "snake" nil :count 0)
