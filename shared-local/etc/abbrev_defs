@@ -98,6 +98,7 @@
     ("reepo" "repo" nil :count 1)
     ("restar" "restart" nil :count 1)
     ("rpeo" "repo" nil :count 1)
+    ("sude" #("sudo" 0 4 (ws-butler-chg chg)) nil :count 2)
     ("tailcale" "tailscale" nil :count 1)
     ("wquery" "equery" nil :count 1)
    ))
