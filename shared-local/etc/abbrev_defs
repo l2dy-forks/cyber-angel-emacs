@@ -194,6 +194,7 @@
     ("corect" "correct" nil :count 0)
     ("corects" "corrects" nil :count 0)
     ("corretly" "correctly" nil :count 0)
+    ("cosult" "consult" nil :count 0)
     ("coulmn" "column" nil :count 3)
     ("creaeted" "created" nil :count 0)
     ("curent" "current" nil :count 2)
