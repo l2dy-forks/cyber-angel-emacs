@@ -285,6 +285,7 @@
     ("hcange" "change" nil :count 0)
     ("highlihgt" "highlight" nil :count 1)
     ("highlihgted" "highlighted" nil :count 0)
+    ("histroy" "history" nil :count 0)
     ("hitory" "history" nil :count 0)
     ("hlelo" "hello" nil :count 0)
     ("hnost" "host" nil :count 0)
