@@ -519,6 +519,7 @@
     ("unles" "unless" nil :count 2)
     ("unliss" "unless" nil :count 0)
     ("unlless" "unless" nil :count 0)
+    ("unlss" "unless" nil :count 0)
     ("unnecessaryy" "unnecessary" nil :count 0)
     ("updat" "update" nil :count 0)
     ("updgrade" "upgrade" nil :count 0)
