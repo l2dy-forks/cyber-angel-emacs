@@ -139,6 +139,7 @@
     ("backspce" "backspace" nil :count 0)
     ("backsppace" "backspace" nil :count 0)
     ("basicaly" "basically" nil :count 1)
+    ("becaause" "because" nil :count 0)
     ("beffer" "buffer" nil :count 0)
     ("befor" "before" nil :count 0)
     ("beforee" "before" nil :count 0)
