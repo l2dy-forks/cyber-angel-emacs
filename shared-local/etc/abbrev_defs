@@ -190,6 +190,7 @@
     ("configurathon" "configuration" nil :count 0)
     ("confiugration" "configuration" nil :count 0)
     ("confiugrations" "configurations" nil :count 0)
+    ("conition" "condition" nil :count 0)
     ("conitnue" "continue" nil :count 0)
     ("converison" "conversion" nil :count 0)
     ("corect" "correct" nil :count 0)
