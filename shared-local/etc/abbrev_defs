@@ -513,6 +513,7 @@
     ("timeut" "timeout" nil :count 0)
     ("tjhen" "then" nil :count 0)
     ("todey" "today" nil :count 0)
+    ("trakc" "track" nil :count 0)
     ("treu" "true" nil :count 0)
     ("unacpakged" "unpackaged" nil :count 1)
     ("uness" "unless" nil :count 0)
