@@ -204,6 +204,7 @@
     ("currenly" "currently" nil :count 0)
     ("ddisk" "disk" nil :count 0)
     ("ddisplay" "display" nil :count 0)
+    ("debucg" "debug" nil :count 0)
     ("deete" "delete" nil :count 0)
     ("defauit" "default" nil :count 0)
     ("defin" "define" nil :count 0)
