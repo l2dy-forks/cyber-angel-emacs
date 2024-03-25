@@ -495,6 +495,7 @@
     ("specificaly" "specifically" nil :count 2)
     ("sprit" "sprite" nil :count 0)
     ("sprties" "sprites" nil :count 0)
+    ("statu" "status" nil :count 0)
     ("stil" "still" nil :count 0)
     ("straihgt" "straight" nil :count 0)
     ("stringg" "string" nil :count 0)
