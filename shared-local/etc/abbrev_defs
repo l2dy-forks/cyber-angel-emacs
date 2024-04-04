@@ -131,6 +131,7 @@
     ("aroundd" "around" nil :count 1)
     ("arounhd" "around" nil :count 0)
     ("asets" "assets" nil :count 0)
+    ("askell" "haskell" nil :count 1)
     ("asni" "ansi" nil :count 0)
     ("asynchronoulsly" "asynchronously" nil :count 0)
     ("atuo" "auto" nil :count 0)
