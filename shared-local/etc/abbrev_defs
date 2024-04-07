@@ -320,6 +320,7 @@
     ("inhrit" "inherit" nil :count 0)
     ("initialie" "initialize" nil :count 0)
     ("initialy" "initially" nil :count 0)
+    ("insatll" "install" nil :count 0)
     ("instal" "install" nil :count 1)
     ("insurnace" "insurance" nil :count 0)
     ("interactrive" "interactive" nil :count 0)
