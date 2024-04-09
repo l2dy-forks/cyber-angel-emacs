@@ -233,6 +233,7 @@
     ("ecits" "exits" nil :count 0)
     ("editro" "editor" nil :count 0)
     ("edtior" "editor" nil :count 1)
+    ("eemrge" "emerge" nil :count 0)
     ("eend" "end" nil :count 0)
     ("ehco" "echo" nil :count 0)
     ("ehsell" "eshell" nil :count 1)
