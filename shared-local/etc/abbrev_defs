@@ -569,6 +569,7 @@
     ("workspcaes" "workspaces" nil :count 1)
     ("woudl" "would" nil :count 0)
     ("wrapepr" "wrapper" nil :count 0)
+    ("wriet" "write" nil :count 0)
     ("wrtie" "write" nil :count 0)
     ("wuld" "would" nil :count 0)
     ("wyhen" "when" nil :count 1)
