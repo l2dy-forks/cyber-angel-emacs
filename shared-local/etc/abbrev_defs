@@ -568,6 +568,7 @@
     ("withoout" "without" nil :count 0)
     ("workspcae" "workspace" nil :count 1)
     ("workspcaes" "workspaces" nil :count 1)
+    ("worold" "world" nil :count 0)
     ("woudl" "would" nil :count 0)
     ("wrapepr" "wrapper" nil :count 0)
     ("wriet" "write" nil :count 0)
@@ -576,6 +577,7 @@
     ("wyhen" "when" nil :count 1)
     ("ypur" "your" nil :count 0)
     ("ysnc" "sync" nil :count 1)
+    ("yuor" "your" nil :count 0)
     ("ywllow" "yellow" nil :count 0)
    ))
 
