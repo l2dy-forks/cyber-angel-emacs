@@ -2,6 +2,7 @@
 (define-abbrev-table 'global-abbrev-table
   '(
     ("doomn" "doom" nil :count 1)
+    ("emerege" "emerge" nil :count 0)
     ("hapen" "happen" nil :count 0)
     ("paly" "pay" nil :count 0)
     ("pign" "ping" nil :count 0)
