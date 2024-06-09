@@ -6,6 +6,7 @@
 
 (define-abbrev-table 'global-abbrev-table
   '(
+    ("aboyut" "about" nil :count 0)
     ("doomn" "doom" nil :count 1)
     ("emerege" "emerge" nil :count 0)
     ("hapen" "happen" nil :count 0)
@@ -13,6 +14,7 @@
     ("pign" "ping" nil :count 0)
     ("poprt" "port" nil :count 0)
     ("pulblic" "public" nil :count 0)
+    ("pythoyn" "python" nil :count 0)
     ("waws" "was" nil :count 0)
    ))
 
